@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163312680",
+    "project_id": "kasturi-63dfd",
+    "storage_bucket": "kasturi-63dfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163312680:android:c880de381a8509209c311d",
+        "android_client_info": {
+          "package_name": "com.example.kasturi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqvv-7sazc2uD12qRInADVDPGZ4y-WZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

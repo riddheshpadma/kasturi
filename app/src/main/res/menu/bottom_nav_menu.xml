@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        app:iconTint="@color/white"
+        app:titleTextColor="@color/white"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/map"
+        app:iconTint="@color/white"
+        app:titleTextColor="@color/white"
+        android:title="Map" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/user"
+        app:iconTint="@color/white"
+        app:titleTextColor="@color/white"
+        android:title="Profile" />
+    <item
+        android:id="@+id/nav_chatbot"
+        android:icon="@drawable/chatbot"
+        app:iconTint="@color/white"
+        app:titleTextColor="@color/white"
+        android:title="Chatbot" />
+</menu>

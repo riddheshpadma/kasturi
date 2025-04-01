@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Kasturi</string>
+    <string name="default_web_client_id" translatable="false">163312680-r93dmvi6b79ji7o0g0ukb38q4d8k9aps.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="upload_clear_photo">Upload a clear photo</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="add">Add</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="change_password">Change Password</string>
+    <string name="verify_with_aadhaar">Verify with Aadhaar</string>
+    <string name="remove">Remove</string>
+    <string name="name_cannot_be_empty">Name cannot be empty</string>
+    <string name="phone_cannot_be_empty">Phone cannot be empty</string>
+    <string name="welcome_message">Hello! I\'m your safety assistant. How can I help you today?</string>
+    <string name="safety_tip_1">Tip: Always share your live location with trusted contacts when going out.</string>
+    <string name="safety_tip_2">Tip: If you feel unsafe, look for crowded places and call emergency services.</string>
+
+    <string name="use_emergency_button">Remember to use the emergency button if you need immediate help!</string>
+
+    <string-array name="safety_tips">
+        <item>Tip: Always share your live location with trusted contacts</item>
+        <item>Tip: Program emergency numbers into your speed dial</item>
+        <item>Tip: Avoid poorly lit areas when walking alone at night</item>
+        <item>Tip: Trust your instincts - if a situation feels wrong, leave immediately</item>
+    </string-array>
+
+    <string name="quick_actions">Quick Actions</string>
+    <string name="emergency">Emergency</string>
+    <string name="safety_tips">Safety Tips</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="safety_resources">Safety Resources</string>
+    <string name="nearby_police_stations">Nearby Police Stations</string>
+
+    <string name="safety_tips_title">Safety Tips</string>
+
+</resources>
